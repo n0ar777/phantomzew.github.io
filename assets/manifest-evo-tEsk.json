@@ -1,0 +1,40 @@
+{
+  "name": "Phantom",
+  "short_name": "Phantom",
+  "description": "Application de portefeuille crypto inspirée de Phantom Wallet",
+  "start_url": "/phantomzew.github.io/",
+  "scope": "/phantomzew.github.io/",
+  "display": "standalone",
+  "background_color": "#7C66DC",
+  "theme_color": "#AB9FF2",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/phantomzew.github.io/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/phantomzew.github.io/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/phantomzew.github.io/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "categories": ["finance", "utilities"],
+  "screenshots": [
+    {
+      "src": "/phantomzew.github.io/screenshot.png",
+      "sizes": "390x844",
+      "type": "image/png"
+    }
+  ],
+  "prefer_related_applications": false
+}
